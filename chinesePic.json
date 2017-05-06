@@ -1,0 +1,251 @@
+{
+  "ParsedResults": [
+    {
+      "TextOverlay": {
+        "Lines": [
+          {
+            "Words": [
+              {
+                "WordText": "Traditional",
+                "Left": 2,
+                "Top": 33,
+                "Height": 18,
+                "Width": 108
+              }
+            ],
+            "MaxHeight": 18,
+            "MinTop": 33
+          },
+          {
+            "Words": [
+              {
+                "WordText": "Simplified",
+                "Left": 3,
+                "Top": 109,
+                "Height": 23,
+                "Width": 97
+              }
+            ],
+            "MaxHeight": 23,
+            "MinTop": 109
+          },
+          {
+            "Words": [
+              {
+                "WordText": "開",
+                "Left": 155,
+                "Top": 14,
+                "Height": 56,
+                "Width": 50
+              }
+            ],
+            "MaxHeight": 56,
+            "MinTop": 14
+          },
+          {
+            "Words": [
+              {
+                "WordText": "开",
+                "Left": 152,
+                "Top": 91,
+                "Height": 53,
+                "Width": 55
+              }
+            ],
+            "MaxHeight": 53,
+            "MinTop": 91
+          },
+          {
+            "Words": [
+              {
+                "WordText": "Open",
+                "Left": 150,
+                "Top": 174,
+                "Height": 22,
+                "Width": 54
+              }
+            ],
+            "MaxHeight": 22,
+            "MinTop": 174
+          },
+          {
+            "Words": [
+              {
+                "WordText": "圖",
+                "Left": 269,
+                "Top": 14,
+                "Height": 56,
+                "Width": 42
+              },
+              {
+                "WordText": "丨",
+                "Left": 312,
+                "Top": 15,
+                "Height": 54,
+                "Width": 6
+              }
+            ],
+            "MaxHeight": 56,
+            "MinTop": 14
+          },
+          {
+            "Words": [
+              {
+                "WordText": "图",
+                "Left": 270,
+                "Top": 90,
+                "Height": 55,
+                "Width": 48
+              }
+            ],
+            "MaxHeight": 55,
+            "MinTop": 90
+          },
+          {
+            "Words": [
+              {
+                "WordText": "Picture/",
+                "Left": 257,
+                "Top": 174,
+                "Height": 17,
+                "Width": 75
+              }
+            ],
+            "MaxHeight": 17,
+            "MinTop": 174
+          },
+          {
+            "Words": [
+              {
+                "WordText": "Diagram",
+                "Left": 252,
+                "Top": 199,
+                "Height": 23,
+                "Width": 84
+              }
+            ],
+            "MaxHeight": 23,
+            "MinTop": 199
+          },
+          {
+            "Words": [
+              {
+                "WordText": "幺",
+                "Left": 381,
+                "Top": 14,
+                "Height": 32,
+                "Width": 17
+              },
+              {
+                "WordText": "舷",
+                "Left": 399,
+                "Top": 12,
+                "Height": 33,
+                "Width": 33
+              }
+            ],
+            "MaxHeight": 33,
+            "MinTop": 12
+          },
+          {
+            "Words": [
+              {
+                "WordText": "乐",
+                "Left": 379,
+                "Top": 90,
+                "Height": 55,
+                "Width": 53
+              }
+            ],
+            "MaxHeight": 55,
+            "MinTop": 90
+          },
+          {
+            "Words": [
+              {
+                "WordText": "Fun",
+                "Left": 388,
+                "Top": 174,
+                "Height": 17,
+                "Width": 37
+              }
+            ],
+            "MaxHeight": 17,
+            "MinTop": 174
+          },
+          {
+            "Words": [
+              {
+                "WordText": "庐",
+                "Left": 494,
+                "Top": 13,
+                "Height": 34,
+                "Width": 33
+              },
+              {
+                "WordText": "1",
+                "Left": 528,
+                "Top": 15,
+                "Height": 31,
+                "Width": 20
+              }
+            ],
+            "MaxHeight": 34,
+            "MinTop": 13
+          },
+          {
+            "Words": [
+              {
+                "WordText": "一",
+                "Left": 493,
+                "Top": 126,
+                "Height": 2,
+                "Width": 8
+              },
+              {
+                "WordText": "了",
+                "Left": 502,
+                "Top": 111,
+                "Height": 34,
+                "Width": 34
+              },
+              {
+                "WordText": "．",
+                "Left": 537,
+                "Top": 123,
+                "Height": 5,
+                "Width": 9
+              }
+            ],
+            "MaxHeight": 34,
+            "MinTop": 111
+          },
+          {
+            "Words": [
+              {
+                "WordText": "Learn",
+                "Left": 489,
+                "Top": 174,
+                "Height": 17,
+                "Width": 54
+              }
+            ],
+            "MaxHeight": 17,
+            "MinTop": 174
+          }
+        ],
+        "HasOverlay": true,
+        "Message": "Total lines: 15"
+      },
+      "FileParseExitCode": 1,
+      "ParsedText": "Traditional\r\nSimplified\r\n開\r\n开\r\nOpen\r\n圖丨\r\n图\r\nPicture/\r\nDiagram\r\n幺舷\r\n乐\r\nFun\r\n庐1\r\n一了．\r\nLearn\r\n",
+      "ErrorMessage": "",
+      "ErrorDetails": ""
+    }
+  ],
+  "OCRExitCode": 1,
+  "IsErroredOnProcessing": false,
+  "ErrorMessage": null,
+  "ErrorDetails": null,
+  "ProcessingTimeInMilliseconds": "642"
+}

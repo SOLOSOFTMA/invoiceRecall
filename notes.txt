@@ -1,0 +1,32 @@
+Notes:
+
+1. OCR .. location of detected words, x y coordinate ... Linking them based on x y coordinate
+NLTK for tagging words
+NLTK for error correction
+Symbol recognition for rupee and dollar
+
+2. Divide the page into sections, preferably in the ratio 25:50:25, and process the top section for buyer, seller and date, middle section for numbers/ 'Rs'/ '$' and text associated with them laterally.
+
+3. All keywords should be in smallcaps, and convert all identified words to smallcaps, and apply autocorrect before comparing them. 
+
+3. Fields:
+	~Buyer
+	~Seller
+	~Date
+	keywords:
+		january jan february feb ... december dec
+		date dated
+		buyer to
+	-------------
+	~Item
+	~Item Cost
+	~Total Cost
+	keywords:
+		cess tax charge
+		total amount
+		off discount
+
+4. Another alternative method which can be implemented is to select the various parts of text in an image and store those image parts in a database
+
+5. Build a flask website for it, which takes image as input, stores everything on the backed and send fields to users
+
